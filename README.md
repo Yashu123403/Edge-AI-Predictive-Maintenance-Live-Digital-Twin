@@ -86,7 +86,7 @@ This makes the project reproducible while using a well-established benchmark dat
 
 ## 3. Folder structure
 
-ltts-edge-ai-predictive-maintenance/
+edge-ai-predictive-maintenance/
 ├── data/
 │   ├── train_FD001.csv          # 100 engines, run-to-failure
 │   ├── test_FD001.csv           # 100 engines, truncated trajectories
